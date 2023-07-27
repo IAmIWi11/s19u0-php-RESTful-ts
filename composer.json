@@ -1,0 +1,21 @@
+{
+    "name": "s19u0-php-ts/rest",
+    "description": "the RESTful framework for tencent cloud scf.",
+    "license": "GPL,LGPL,BSD,MIT,Apache",
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "src/controller",
+            "Model\\": "src/model",
+            "Validate\\": "src/validate",
+            "Medoo\\": "/opt/Medoo-master/src",
+            "JWT\\": "/opt"
+        }
+    },
+    "authors": [
+        {
+            "name": "s19u0"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
