@@ -3,7 +3,7 @@
         'name' => 's19u0-php-restful-ts/framework',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '5cffa0a45ba2b4453c701194cb27dadf318799bd',
+        'reference' => '706d97d7b79f29831e616154a40a93c393b3425b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         's19u0-php-restful-ts/framework' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '5cffa0a45ba2b4453c701194cb27dadf318799bd',
+            'reference' => '706d97d7b79f29831e616154a40a93c393b3425b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
