@@ -19,5 +19,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.0||^8.0"
+    },
+    "scripts": {
+        "post-install-cmd": "SlGuo\\Framework::init"
     }
 }
