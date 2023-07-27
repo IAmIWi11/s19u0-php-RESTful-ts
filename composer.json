@@ -1,7 +1,7 @@
 {
-    "name": "s19u0-php-ts/rest",
+    "name": "s19u0-php-restful-ts/framework",
     "description": "the RESTful framework for tencent cloud scf.",
-    "license": "GPL,LGPL,BSD,MIT,Apache",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "Controller\\": "src/controller",
